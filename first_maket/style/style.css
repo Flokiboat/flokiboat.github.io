@@ -11,7 +11,7 @@
 }
 
 header {
-    background: url(/img/bgr_one.png);
+    background: url(../img/bgr_one.png);
     background-size: cover;
     margin: 0 auto;
     max-width: 1400px;
@@ -347,13 +347,13 @@ input[type="search"] {
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 .us_advantage {
-    background: url(/img/3_1.png);
+    background: url(../img/3_1.png);
 }
 .hot_offers {
-    background: url(/img/3_2.png);
+    background: url(../img/3_2.png);
 }
 .mailing {
-    background: url(/img/3_3.png);
+    background: url(../img/3_3.png);
 }
 /* .us_advantage img, .hot_offers img, .mailing img {
     border: 4px solid #fff;
@@ -557,7 +557,7 @@ h2{
     padding-top: 4px;
 }
 .footer_block {
-    background: url(/img/bgr_one.png) no-repeat;
+    background: url(../img/bgr_one.png) no-repeat;
     height: 235px;
     margin: 0 auto;
     max-width: 1400px;
