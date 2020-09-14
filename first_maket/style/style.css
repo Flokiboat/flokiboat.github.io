@@ -14,7 +14,7 @@ header {
     background: url(../img/bgr_one.png);
     background-size: cover;
     margin: 0 auto;
-    max-width: 1400px;
+    min-width: 1400px;
 
 }
 
@@ -99,10 +99,13 @@ input[type="search"] {
     right: 8px;
 }
 
-
-.logo_block {
+#logo_block {
+    margin: 0 auto;
+    padding: 0 18%;
+}
+/* .logo_block {
   display: inline-block;
-  padding: 3% 17% 0 17%;
+  padding: 3% 17% 0 17%; */
 }
 .logo_block p {
     text-align: center;
@@ -204,7 +207,7 @@ input[type="search"] {
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 0 auto;
-    max-width: 1400px;
+    width: fit-content;
 }
 /* .btn_slider_left {
     width: 20px;
