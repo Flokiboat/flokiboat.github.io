@@ -14,7 +14,7 @@ header {
     background: url(../img/bgr_one.png);
     background-size: cover;
     margin: 0 auto;
-    min-width: 1400px;
+    width: fit-content;
 
 }
 
