@@ -59,7 +59,7 @@ header {
 .menu a {
     text-decoration: none;
     display: inline-block;
-    padding: 40px 4%;
+    padding: 40px 3%;
     color: #BCC1C2;
     height: 100%;
     margin-top: -1px;
@@ -68,7 +68,7 @@ header {
     background:#fff;
 }
 footer .menu a{
-  padding: 30px 5%;
+  padding: 30px 3%;
   position: relative;
 }
 footer .menu a::after{
