@@ -13,7 +13,7 @@ header .logo > a > p {
 }
 .right_block {
     width: 90%;
-    margin: 20px 40px;
+    margin: 20px 20px;
 }
 .auto_text {
     padding-top: 200px;
@@ -369,8 +369,8 @@ header nav {
 @media (max-width:576px) {
   .article {
     height: 300px;
-    width: 100%;
-    margin: 70px;
+    width: 88%;
+    margin: 20px;
     border: 6px solid gray;
     border-radius: 25px;
   }
@@ -378,16 +378,15 @@ header nav {
     font-size: 30px;
   }
   main h2 {
-    margin-left: 165px;
     font-size: 66px;
   }
   .my_project {
-    margin-left: 60px;
+/*     margin-left: 60px; */
   }
   .my_project_two {
     float: none;
     margin-top: 0;
-    margin-left: 55px;
+/*     margin-left: 55px; */
   }
   .second_card p {
     margin-left: 60px;
@@ -401,7 +400,7 @@ header nav {
     margin-left: 83px;
   }
   footer {
-    width: 496px;
+    width: 378px;
   }
   #contact-info .links {
     min-width: 370px;
@@ -410,4 +409,23 @@ header nav {
     margin-top: 50px;
     margin-left: 0;
   }
+    .auto_text {
+    padding-top: 150px;
+}
+    .about_card p {
+    font-size: 22px;
+}
+    .about_card img {
+    height: 55px;
+    width: 50px;
+    margin: 1px;
+}
+    .about_card {
+    display: inline-block;
+    width: 415px;
+    margin: 40px 10px;
+}
+    .second_card img {
+    margin-left: 62px;
+}
 }
