@@ -389,7 +389,7 @@ header nav {
 /*     margin-left: 55px; */
   }
   .second_card p {
-    margin-left: 60px;
+    margin-left: 0;
   }
   #type_text {
     font-family: 'Bebas Neue', cursive;
@@ -397,13 +397,13 @@ header nav {
     font-size: 27px;
     color: black;
     letter-spacing: 2px;
-    margin-left: 83px;
+/*     margin-left: 83px; */
   }
   footer {
     width: 378px;
   }
   #contact-info .links {
-    min-width: 370px;
+    min-width: 300px;
   }
   .second_card {
     margin-top: 50px;
