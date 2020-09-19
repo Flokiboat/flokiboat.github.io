@@ -98,6 +98,9 @@ h2 {
 .second_card img {
   margin-left: 100px;
 }
+.project_border img {
+    width: 290px;
+}
 footer {
   background: rgba(230,230,230,1);
   width: 100%;
