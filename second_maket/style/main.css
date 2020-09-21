@@ -532,4 +532,38 @@
     .basket span {
         padding: 23px 15px 19px 0;
     }
+    .col-md-11 h2 {
+        color: white;
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 15px;
+        border-bottom: 1px solid gray;
+        font-size: 46px;
+    }
+    .col-md-11 p {
+        color: white;
+    }
+    .col-md-11 b {
+        color: var(--gold_color);
+    }
+    .col-md-11 {
+        margin: 0 auto;
+    }
+    .to_mobile img {
+        height: 85px;
+        padding-right: 20px;
+    }
+    .col-md-11 a {
+        margin-bottom: 30px;
+    }
+    .to_idea h2 {
+        text-align: center;
+        font-weight: 800;
+        font-size: 36px;
+        border-bottom: 1px solid var(--gold_color);
+        padding-bottom: 15px;
+    }
+    .col-md-10 {
+        margin: 0 auto;
+    }
 }
