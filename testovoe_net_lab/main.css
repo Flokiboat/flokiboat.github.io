@@ -550,7 +550,7 @@
     }
     .left_column p, .second_left_column p {
         font-size: 17px;
-        padding: 0px 15px 16px 0;
+        padding: 0px 15px 29px 0;
     }
     .left_half p, .right_half p {
         font-size: 17px;
@@ -567,7 +567,7 @@
         height: 157px;
     }
     .left_half .second_row, .right_half .second_row, .left_half .other_row, .right_half .other_row {
-        padding-bottom: 103px;
+        padding-bottom: 120px;
     }
     #right_arrow {
         right: 125px;
