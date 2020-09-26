@@ -811,3 +811,8 @@
     bottom: 290px;
     }
 }
+/*PRAVKI*/
+.icon_block a {
+    border: none;
+    padding:0;
+}
