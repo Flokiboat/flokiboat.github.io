@@ -10,6 +10,7 @@ header,
 section.pattern{
     background-image: url(../img/second_bgr.png);
     background-color: #000000;
+    background-position-x: center;
 }
 section.black{
     background-color: #000000;
@@ -611,7 +612,7 @@ section.orange{
         margin: 0 auto;
     }
     .lvl_container {
-        min-width: 768px;
+        max-width: 768px;
         background-image: url(../img/second_bgr.png);
         background-position: bottom;
     }
@@ -714,5 +715,14 @@ section.orange{
         left: -3%;
         
         width: 100%;
+    }
+    .lvl_container {
+        background: none;
+    }
+    .ml-auto {
+        margin: 0 auto;
+    }
+    .ml-auto a {
+        padding: 20px 50px;
     }
 }
